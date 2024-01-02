@@ -1,12 +1,13 @@
-﻿# Name : My-first-repo
-# website status : not ok
+# Name		 : My-first-repo
+# website status : Not OK.
 
-*******************This website is not ok yet because This website is currently under construction.*******************
-				 *****There are total 3 files for the website.*****
-		    		 	 1. images (folder).
-		    		  	 2. index.htlm (HTML file).
-		   		  	 3. style.css (CSS file).
+**************************************************This website is totally fine.You can check it.**************************************************
 
-	 			*****It will not open without these 3 files.*****
+					        *****There are total 3 files for the website.*****
+							     1.images (folder).
+							     2. index.htlm (HTML file).
+		    		  			     3. style.css (CSS file).
 
-			#Online_website_link :  https://towhid162153.github.io/My-first-repo/
+	 			                 *****It will not open without these 3 files.*****
+
+				      #Online_website_link :  https://towhid162153.github.io/My-first-repo/
